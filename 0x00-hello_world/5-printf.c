@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /*
+ *main - prints the phrase with proper grammer 
  *Use the function printf
  *You are not allowed to use the function puts
  *Your program should return 0
